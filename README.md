@@ -1,2 +1,2 @@
-# fluffy-igniter
+# NoteIgniter
 Igniting Tech.
